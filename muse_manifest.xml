@@ -1,44 +1,40 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://bloojayz.github.io" resolutions="1x" timestamp="1454467609048">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bloojayz.github.io" resolutions="1x" timestamp="1454554112828">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="238129379" ref="index:contact-me:about-me:child-page:new-css:stuff:services"/>
-    <file name="index.css" crc="4227689566" ref="index"/>
-    <file name="contact-me.css" crc="228884970" ref="contact-me"/>
-    <file name="about-me.css" crc="252240821" ref="about-me"/>
-    <file name="child-page.css" crc="4170780476" ref="child-page"/>
-    <file name="new-css.css" crc="4170780476" ref="new-css"/>
-    <file name="stuff.css" crc="336849770" ref="stuff"/>
-    <file name="services.css" crc="4103914289" ref="services"/>
+    <file name="master_b-master.css" crc="3899344565" ref="jax-guide:league-of-legends"/>
+    <file name="master_a-master.css" crc="45128445" ref="minecraft:jax-guide:league-of-legends:untitled-11:index:desalination-project:projects:other:minecraft-one-command-1:misc"/>
+    <file name="minecraft.css" crc="328796596" ref="minecraft"/>
+    <file name="jax-guide.css" crc="4090267252" ref="jax-guide"/>
+    <file name="league-of-legends.css" crc="4263380120" ref="league-of-legends"/>
+    <file name="untitled-11.css" crc="3953172401" ref="untitled-11"/>
+    <file name="index.css" crc="4259860815" ref="index"/>
+    <file name="desalination-project.css" crc="4281953569" ref="desalination-project"/>
+    <file name="projects.css" crc="4281953569" ref="projects"/>
+    <file name="other.css" crc="4281953569" ref="other"/>
+    <file name="minecraft-one-command-1.css" crc="4171093511" ref="minecraft-one-command-1"/>
+    <file name="misc.css" crc="169288277" ref="misc"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:stuff:about-me:contact-me:services:new-css:child-page"/>
-    <file name="museutils.js" crc="275725342" ref="index:stuff:about-me:contact-me:services:new-css:child-page"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:stuff:about-me:contact-me:services:new-css:child-page"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:stuff:about-me:contact-me:services:new-css:child-page"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:stuff:about-me:contact-me:services:new-css:child-page"/>
-    <file name="webpro.js" crc="3883484123" ref="contact-me"/>
-    <file name="form_check.php" crc="3932029206" ref="contact-me"/>
-    <file name="form_throttle.php" crc="314685628" ref="contact-me"/>
-    <file name="form_process.php" crc="401030677" ref="contact-me"/>
-    <file name="form-u187.php" crc="3905106998" ref="contact-me"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="contact-me"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:minecraft-one-command-1:desalination-project:untitled-11"/>
+    <file name="museutils.js" crc="275725342" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:minecraft-one-command-1:desalination-project:untitled-11"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:minecraft-one-command-1:desalination-project:untitled-11"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:minecraft-one-command-1:desalination-project:untitled-11"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:minecraft-one-command-1:desalination-project:untitled-11"/>
   </folder>
   <folder name="images">
-    <file name="capture.jpg" crc="191500745" seo="true" ref="index:stuff:about-me:contact-me:services:new-css:child-page"/>
     <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
-    <file name="u194-17.png" crc="4086417332" ref="contact-me"/>
-    <file name="u194-17-r.png" crc="206288666" ref="contact-me"/>
-    <file name="u194-17-m.png" crc="166623752" ref="contact-me"/>
-    <file name="u194-17-fs.png" crc="3824191253" ref="contact-me"/>
-    <file name="will this work-body.png" crc="534979855" ref="contact-me"/>
-    <file name="will this work-tail spikes.png" crc="3784310132" ref="contact-me"/>
-    <file name="will this work.png" crc="137358923" ref="contact-me"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="index"/>
+    <file name="league of legends logo.png" crc="26881133" seo="true" ref="league-of-legends:jax-guide"/>
+    <file name="jax.jpg" crc="309311098" seo="true" ref="jax-guide"/>
   </folder>
-  <file name="index.html" crc="130732789" seo="true" mt="1454467454048" redirect="true"/>
-  <file name="stuff.html" crc="4140540263" seo="true" mt="1454467074987" redirect="true"/>
-  <file name="about-me.html" crc="4231033979" seo="true" mt="1454467074988" redirect="true"/>
-  <file name="contact-me.html" crc="371105428" seo="true" mt="1454467074989" redirect="true"/>
-  <file name="services.html" crc="361181036" seo="true" mt="1454467390974" redirect="true"/>
-  <file name="new-css.html" crc="4103758249" seo="true" mt="1454467075056" redirect="true"/>
-  <file name="child-page.html" crc="503373453" seo="true" mt="1454467075057" redirect="true"/>
+  <file name="index.html" crc="446002096" seo="true" mt="1454551651605" redirect="true"/>
+  <file name="league-of-legends.html" crc="3895469209" seo="true" mt="1454551651605" redirect="true"/>
+  <file name="minecraft.html" crc="281049802" seo="true" mt="1454551651605" redirect="true"/>
+  <file name="misc.html" crc="257349867" seo="true" mt="1454551651605" redirect="true"/>
+  <file name="projects.html" crc="256370780" seo="true" mt="1454551651605" redirect="true"/>
+  <file name="other.html" crc="4222902816" seo="true" mt="1454551651605" redirect="true"/>
+  <file name="jax-guide.html" crc="3952428353" seo="true" mt="1454553844028" redirect="true"/>
+  <file name="minecraft-one-command-1.html" crc="517952853" seo="true" mt="1454551651605" redirect="true"/>
+  <file name="desalination-project.html" crc="4248915742" seo="true" mt="1454551651605" redirect="true"/>
+  <file name="untitled-11.html" crc="3983912801" seo="true" mt="1454551651605" redirect="true"/>
 </manifest>

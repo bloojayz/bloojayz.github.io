@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.untitled_11 /* version checker */
 {
-	color: #0000FD;
-	background-color: #E8514F;
+	color: #0000EB;
+	background-color: #A09FB1;
 }
 
 .html
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	margin-top: -54px;
-	padding-bottom: 345px;
+	padding-bottom: 70px;
 	width: 0.01px;
 }
 
@@ -782,17 +782,14 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u162-7
+#u241-3
 {
 	z-index: 75;
-	width: 920px;
-	min-height: 135px;
+	width: 893px;
+	min-height: 364px;
 	background-color: transparent;
-	font-size: 20px;
-	line-height: 24px;
-	font-family: Times, Times New Roman, Georgia, serif;
-	margin-left: 20px;
-	margin-top: 41px;
+	margin-left: 28px;
+	margin-top: 87px;
 	position: relative;
 }
 

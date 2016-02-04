@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.minecraft_one_command_1 /* version checker */
 {
-	color: #0000FD;
-	background-color: #E8514F;
+	color: #0000F8;
+	background-color: #9DD607;
 }
 
 .html
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	margin-top: -54px;
-	padding-bottom: 345px;
+	padding-bottom: 62px;
 	width: 0.01px;
 }
 
@@ -782,17 +782,31 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u162-7
+#u234-9
 {
-	z-index: 75;
+	z-index: 79;
 	width: 920px;
-	min-height: 135px;
+	min-height: 118px;
 	background-color: transparent;
-	font-size: 20px;
-	line-height: 24px;
+	font-size: 22px;
+	text-align: center;
+	line-height: 26px;
 	font-family: Times, Times New Roman, Georgia, serif;
 	margin-left: 20px;
 	margin-top: 41px;
+	position: relative;
+}
+
+#u233-4
+{
+	z-index: 75;
+	width: 893px;
+	min-height: 345px;
+	background-color: transparent;
+	font-size: 12px;
+	line-height: 14px;
+	margin-left: 34px;
+	margin-top: 64px;
 	position: relative;
 }
 
@@ -800,7 +814,7 @@ body
 {
 	position: relative;
 	min-width: 960px;
-	padding-top: 159px;
+	padding-top: 155px;
 	padding-bottom: 36px;
 }
 

@@ -1,12 +1,12 @@
-.version.index /* version checker */
+.version.league_of_legends /* version checker */
 {
-	color: #0000FD;
-	background-color: #E8514F;
+	color: #0000FE;
+	background-color: #1E0498;
 }
 
 .html
 {
-	background-color: #001A68;
+	background-color: #000000;
 }
 
 #page
@@ -24,15 +24,23 @@
 
 #page_position_content
 {
-	margin-top: -54px;
-	padding-bottom: 345px;
+	margin-top: -200px;
+	padding-bottom: 166px;
 	width: 0.01px;
+}
+
+#u221
+{
+	z-index: 75;
+	width: 363px;
+	margin-left: 299px;
 }
 
 #menuu81
 {
 	z-index: 2;
 	width: 965px;
+	margin-top: 2px;
 }
 
 #u82
@@ -782,15 +790,12 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u162-7
+#u164-7
 {
-	z-index: 75;
+	z-index: 77;
 	width: 920px;
-	min-height: 135px;
+	min-height: 314px;
 	background-color: transparent;
-	font-size: 20px;
-	line-height: 24px;
-	font-family: Times, Times New Roman, Georgia, serif;
 	margin-left: 20px;
 	margin-top: 41px;
 	position: relative;
@@ -800,7 +805,7 @@ body
 {
 	position: relative;
 	min-width: 960px;
-	padding-top: 159px;
+	padding-top: 232px;
 	padding-bottom: 36px;
 }
 
