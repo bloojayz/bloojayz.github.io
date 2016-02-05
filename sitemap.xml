@@ -2,73 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bloojayz.github.io/images/league%20of%20legends%20logo.png</loc>
-    <lastmod>2016-02-03</lastmod>
+    <lastmod>2016-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bloojayz.github.io/images/minecraft%20logo.png</loc>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bloojayz.github.io/images/jax.jpg</loc>
-    <lastmod>2016-02-03</lastmod>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bloojayz.github.io/index.html</loc>
-    <lastmod>2016-02-03</lastmod>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bloojayz.github.io/league-of-legends.html</loc>
-    <lastmod>2016-02-03</lastmod>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bloojayz.github.io/minecraft.html</loc>
-    <lastmod>2016-02-03</lastmod>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bloojayz.github.io/misc.html</loc>
-    <lastmod>2016-02-03</lastmod>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bloojayz.github.io/projects.html</loc>
-    <lastmod>2016-02-03</lastmod>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bloojayz.github.io/other.html</loc>
-    <lastmod>2016-02-03</lastmod>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bloojayz.github.io/jax-guide.html</loc>
-    <lastmod>2016-02-03</lastmod>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bloojayz.github.io/minecraft-one-command-1.html</loc>
-    <lastmod>2016-02-03</lastmod>
+    <loc>http://bloojayz.github.io/castle-builder.html</loc>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bloojayz.github.io/desalination-project.html</loc>
-    <lastmod>2016-02-03</lastmod>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bloojayz.github.io/untitled-11.html</loc>
-    <lastmod>2016-02-03</lastmod>
+    <loc>http://bloojayz.github.io/random-commands.html</loc>
+    <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
