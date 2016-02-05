@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #000011;
-	background-color: #E6AF97;
+	color: #0000F6;
+	background-color: #93AE1C;
 }
 
 .html
@@ -24,7 +24,7 @@
 
 #page_position_content
 {
-	margin-top: -55px;
+	margin-top: -108px;
 	padding-bottom: 284px;
 	width: 0.01px;
 }
@@ -468,7 +468,7 @@
 	min-height: 277px;
 	background-color: transparent;
 	margin-left: 93px;
-	margin-top: 61px;
+	margin-top: 114px;
 	position: relative;
 }
 
@@ -476,7 +476,7 @@ body
 {
 	position: relative;
 	min-width: 1200px;
-	padding-top: 159px;
+	padding-top: 264px;
 	padding-bottom: 36px;
 }
 

@@ -1,7 +1,7 @@
 .version.torrenting /* version checker */
 {
-	color: #0000EC;
-	background-color: #4C3F45;
+	color: #0000E9;
+	background-color: #C37947;
 }
 
 .html
@@ -24,8 +24,8 @@
 
 #page_position_content
 {
-	margin-top: -55px;
-	padding-bottom: 461px;
+	margin-top: -108px;
+	padding-bottom: 617px;
 	width: 0.01px;
 }
 
@@ -464,36 +464,36 @@
 #menuu806
 {
 	z-index: 39;
-	width: 180px;
-	left: -180px;
-	margin-top: 84px;
+	width: 362px;
+	margin-left: 419px;
+	margin-top: 21px;
 }
 
 #u814
 {
 	width: 180px;
+	min-height: 37px;
+	margin-right: -10000px;
 }
 
 #u815
 {
 	width: 180px;
-	min-height: 17px;
 	padding-bottom: 20px;
-	margin-right: -10000px;
 }
 
 #u815:hover
 {
 	width: 180px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u815:active
 {
 	width: 180px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u818-4
@@ -525,36 +525,36 @@
 #u856
 {
 	width: 180px;
-	margin-top: 2px;
+	min-height: 37px;
+	margin-right: -10000px;
+	left: 182px;
 }
 
 #u859
 {
 	width: 180px;
-	min-height: 17px;
-	padding-bottom: 21px;
-	margin-right: -10000px;
+	padding-bottom: 20px;
 }
 
 #u815.MuseMenuActive,#u859:hover
 {
 	width: 180px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u859:active
 {
 	width: 180px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u859.MuseMenuActive
 {
 	width: 180px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u862-4
@@ -596,7 +596,7 @@ body
 {
 	position: relative;
 	min-width: 1200px;
-	padding-top: 159px;
+	padding-top: 244px;
 	padding-bottom: 36px;
 }
 

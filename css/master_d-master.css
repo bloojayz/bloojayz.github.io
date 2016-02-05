@@ -8,13 +8,13 @@
 
 #u815
 {
-	background-color: #C4C4C4;
+	background-color: #0007D4;
 	position: relative;
 }
 
 #u815:hover
 {
-	background-color: #999999;
+	background-color: #0062DA;
 }
 
 #u815:active
@@ -41,13 +41,13 @@
 
 #u859
 {
-	background-color: #C4C4C4;
+	background-color: #0007D4;
 	position: relative;
 }
 
-#u815.MuseMenuActive,#u859:hover
+#u859:hover
 {
-	background-color: #999999;
+	background-color: #0062DA;
 }
 
 #u859:active
@@ -55,9 +55,9 @@
 	background-color: #6B6B6B;
 }
 
-#u859.MuseMenuActive
+#u815.MuseMenuActive,#u859.MuseMenuActive
 {
-	background-color: #999999;
+	background-color: #02006D;
 }
 
 #u862-4
