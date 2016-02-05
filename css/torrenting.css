@@ -1,7 +1,7 @@
-.version.misc /* version checker */
+.version.torrenting /* version checker */
 {
-	color: #000005;
-	background-color: #199378;
+	color: #0000EC;
+	background-color: #4C3F45;
 }
 
 .html
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	margin-top: -55px;
-	padding-bottom: 329px;
+	padding-bottom: 461px;
 	width: 0.01px;
 }
 
@@ -461,19 +461,12 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pmenuu806
-{
-	width: 0.01px;
-	margin-left: -180px;
-	margin-top: 42px;
-}
-
 #menuu806
 {
 	z-index: 39;
 	width: 180px;
-	margin-right: -10000px;
-	margin-top: 42px;
+	left: -180px;
+	margin-top: 84px;
 }
 
 #u814
@@ -597,17 +590,6 @@
 	min-height: 17px;
 	width: 180px;
 	margin: 0px -10000px 0px 0px;
-}
-
-#u166-4
-{
-	z-index: 52;
-	width: 1160px;
-	min-height: 251px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 200px;
 }
 
 body

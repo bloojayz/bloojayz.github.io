@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://bloojayz.github.io/assets/adobe.snr.patch-painter.exe</loc>
+    <lastmod>2015-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://bloojayz.github.io/images/league%20of%20legends%20logo.png</loc>
     <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,6 +20,30 @@
   </url>
   <url>
     <loc>http://bloojayz.github.io/images/jax.jpg</loc>
+    <lastmod>2016-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bloojayz.github.io/images/adobe%20website.jpg</loc>
+    <lastmod>2016-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bloojayz.github.io/images/patch%20painter.jpg</loc>
+    <lastmod>2016-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bloojayz.github.io/images/adobe%20cc.jpg</loc>
+    <lastmod>2016-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bloojayz.github.io/images/patch%20painter%202.jpg</loc>
     <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -74,6 +104,24 @@
   </url>
   <url>
     <loc>http://bloojayz.github.io/random-commands.html</loc>
+    <lastmod>2016-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bloojayz.github.io/random-utilities.html</loc>
+    <lastmod>2016-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bloojayz.github.io/torrenting.html</loc>
+    <lastmod>2016-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bloojayz.github.io/adobe-creative-cloud.html</loc>
     <lastmod>2016-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
