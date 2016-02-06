@@ -1,7 +1,7 @@
 .version.league_of_legends /* version checker */
 {
-	color: #000008;
-	background-color: #CD64F0;
+	color: #0000F6;
+	background-color: #7EECD9;
 }
 
 .html
@@ -12,8 +12,8 @@
 #page
 {
 	z-index: 1;
-	width: 1200px;
-	min-height: 600px;
+	width: 1366px;
+	min-height: 768px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -24,56 +24,56 @@
 
 #page_position_content
 {
-	margin-top: -274px;
-	padding-bottom: 266px;
+	margin-top: -211px;
+	padding-bottom: 20px;
 	width: 0.01px;
 }
 
 #u483
 {
-	z-index: 58;
+	z-index: 47;
 	width: 363px;
-	margin-left: 419px;
+	margin-left: 502px;
 }
 
 #menuu81
 {
-	z-index: 2;
-	width: 1201px;
+	z-index: 3;
+	width: 1367px;
 	left: -1px;
-	margin-top: 22px;
+	margin-top: 12px;
 }
 
 #u82
 {
-	width: 181px;
+	width: 208px;
 	min-height: 33px;
 	margin-right: -10000px;
 }
 
 #u85
 {
-	width: 181px;
+	width: 208px;
 	padding-bottom: 16px;
 }
 
 #u85:hover
 {
-	width: 181px;
+	width: 208px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u85:active
 {
-	width: 181px;
+	width: 208px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u85.MuseMenuActive
 {
-	width: 181px;
+	width: 208px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -84,7 +84,7 @@
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
-	left: 70px;
+	left: 84px;
 }
 
 #u85:hover #u88-4
@@ -116,35 +116,35 @@
 
 #u275
 {
-	width: 260px;
+	width: 287px;
 	min-height: 33px;
 	margin-right: -10000px;
-	left: 183px;
+	left: 210px;
 }
 
 #u276
 {
-	width: 260px;
+	width: 287px;
 	padding-bottom: 16px;
 }
 
 #u276:hover
 {
-	width: 260px;
+	width: 287px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u276:active
 {
-	width: 260px;
+	width: 287px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u276.MuseMenuActive
 {
-	width: 260px;
+	width: 287px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -155,7 +155,7 @@
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
-	left: 70px;
+	left: 84px;
 }
 
 #u276:hover #u278-4
@@ -187,35 +187,35 @@
 
 #u282
 {
-	width: 205px;
+	width: 233px;
 	min-height: 33px;
 	margin-right: -10000px;
-	left: 445px;
+	left: 499px;
 }
 
 #u285
 {
-	width: 205px;
+	width: 233px;
 	padding-bottom: 16px;
 }
 
 #u285:hover
 {
-	width: 205px;
+	width: 233px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u285:active
 {
-	width: 205px;
+	width: 233px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u285.MuseMenuActive
 {
-	width: 205px;
+	width: 233px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -226,7 +226,7 @@
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
-	left: 70px;
+	left: 84px;
 }
 
 #u285:hover #u286-4
@@ -258,35 +258,35 @@
 
 #u289
 {
-	width: 172px;
+	width: 200px;
 	min-height: 33px;
 	margin-right: -10000px;
-	left: 652px;
+	left: 734px;
 }
 
 #u290
 {
-	width: 172px;
+	width: 200px;
 	padding-bottom: 16px;
 }
 
 #u290:hover
 {
-	width: 172px;
+	width: 200px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u290:active
 {
-	width: 172px;
+	width: 200px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u290.MuseMenuActive
 {
-	width: 172px;
+	width: 200px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -297,7 +297,7 @@
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
-	left: 70px;
+	left: 84px;
 }
 
 #u290:hover #u292-4
@@ -329,35 +329,35 @@
 
 #u296
 {
-	width: 195px;
+	width: 223px;
 	min-height: 33px;
 	margin-right: -10000px;
-	left: 826px;
+	left: 936px;
 }
 
 #u299
 {
-	width: 195px;
+	width: 223px;
 	padding-bottom: 16px;
 }
 
 #u299:hover
 {
-	width: 195px;
+	width: 223px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u299:active
 {
-	width: 195px;
+	width: 223px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u299.MuseMenuActive
 {
-	width: 195px;
+	width: 223px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -368,7 +368,7 @@
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
-	left: 70px;
+	left: 84px;
 }
 
 #u299:hover #u300-4
@@ -400,35 +400,35 @@
 
 #u303
 {
-	width: 178px;
+	width: 206px;
 	min-height: 33px;
 	margin-right: -10000px;
-	left: 1023px;
+	left: 1161px;
 }
 
 #u304
 {
-	width: 178px;
+	width: 206px;
 	padding-bottom: 16px;
 }
 
 #u304:hover
 {
-	width: 178px;
+	width: 206px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u304:active
 {
-	width: 178px;
+	width: 206px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u304.MuseMenuActive
 {
-	width: 178px;
+	width: 206px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -439,7 +439,7 @@
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
-	left: 70px;
+	left: 84px;
 }
 
 #u304:hover #u306-4
@@ -469,55 +469,68 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#pu1093
+{
+	width: 0.01px;
+	margin-top: 22px;
+}
+
+#u1093
+{
+	z-index: 2;
+	width: 153px;
+	padding-bottom: 663px;
+	margin-right: -10000px;
+}
+
 #menuu440
 {
-	z-index: 39;
-	width: 443px;
-	margin-left: 379px;
-	margin-top: 18px;
+	z-index: 40;
+	width: 107px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 20px;
 }
 
 #u448
 {
-	width: 98px;
-	min-height: 35px;
-	margin-right: -10000px;
+	width: 107px;
 }
 
 #u449
 {
-	width: 98px;
-	padding-bottom: 18px;
+	width: 107px;
+	padding-bottom: 48px;
+	margin-right: -10000px;
 }
 
 #u449:hover
 {
-	width: 98px;
+	width: 107px;
 	min-height: 0px;
-	margin: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u449:active
 {
-	width: 98px;
+	width: 107px;
 	min-height: 0px;
-	margin: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u449.MuseMenuActive
 {
-	width: 98px;
+	width: 107px;
 	min-height: 0px;
-	margin: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u452-4
 {
-	width: 24px;
+	width: 107px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 9px;
-	left: 37px;
+	top: 24px;
 }
 
 #u449:hover #u452-4
@@ -525,7 +538,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 24px;
+	width: 107px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -534,7 +547,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 24px;
+	width: 107px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -543,170 +556,29 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 24px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u1035
-{
-	width: 156px;
-	min-height: 35px;
-	margin-right: -10000px;
-	left: 100px;
-}
-
-#u1036
-{
-	width: 156px;
-	padding-bottom: 18px;
-}
-
-#u1036:hover
-{
-	width: 156px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u1036:active
-{
-	width: 156px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u1036.MuseMenuActive
-{
-	width: 156px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u1039-4
-{
-	width: 82px;
-	min-height: 17px;
-	margin-right: -10000px;
-	top: 9px;
-	left: 37px;
-}
-
-#u1036:hover #u1039-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 82px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u1036:active #u1039-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 82px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u1036.MuseMenuActive #u1039-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 82px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u1028
-{
-	width: 185px;
-	min-height: 35px;
-	margin-right: -10000px;
-	left: 258px;
-}
-
-#u1029
-{
-	width: 185px;
-	padding-bottom: 18px;
-}
-
-#u1029:hover
-{
-	width: 185px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u1029:active
-{
-	width: 185px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u1029.MuseMenuActive
-{
-	width: 185px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u1032-4
-{
-	width: 111px;
-	min-height: 17px;
-	margin-right: -10000px;
-	top: 9px;
-	left: 37px;
-}
-
-#u1029:hover #u1032-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 111px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u1029:active #u1032-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 111px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u1029.MuseMenuActive #u1032-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 111px;
+	width: 107px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u164-7
 {
-	z-index: 60;
+	z-index: 49;
 	width: 1160px;
 	min-height: 314px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
-	margin-left: 20px;
-	margin-top: 42px;
+	font-size: 18px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 159px;
 }
 
 body
 {
 	position: relative;
-	min-width: 1200px;
-	padding-top: 304px;
+	min-width: 1366px;
+	padding-top: 232px;
 	padding-bottom: 36px;
 }
 

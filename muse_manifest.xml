@@ -1,39 +1,39 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bloojayz.github.io" resolutions="1x" timestamp="1454713203506">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bloojayz.github.io" resolutions="1x" timestamp="1454730129935">
   <folder name="assets">
     <file name="adobe.snr.patch-painter.exe" crc="480365377" seo="true" mt="1436161790000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_b-master.css" crc="3981100190" ref="jax-guide:league-of-legends:guides-and-misc:tryndamere"/>
-    <file name="master_a-master.css" crc="4210691948" ref="jax-guide:desalination-project:castle-builder:random-commands:index:misc:other:minecraft:league-of-legends:projects:random-utilities:adobe-creative-cloud:torrenting:guides-and-misc:boss-battles:tryndamere"/>
-    <file name="master_c-master.css" crc="434463018" ref="castle-builder:random-commands:minecraft:random-utilities:boss-battles"/>
-    <file name="jax-guide.css" crc="4107044054" ref="jax-guide"/>
-    <file name="desalination-project.css" crc="4244438593" ref="desalination-project"/>
-    <file name="castle-builder.css" crc="143316310" ref="castle-builder"/>
-    <file name="random-commands.css" crc="247637841" ref="random-commands"/>
-    <file name="index.css" crc="4202830912" ref="index"/>
-    <file name="misc.css" crc="181936105" ref="misc"/>
-    <file name="other.css" crc="174352303" ref="other"/>
-    <file name="minecraft.css" crc="458850327" ref="minecraft"/>
-    <file name="league-of-legends.css" crc="147678448" ref="league-of-legends"/>
-    <file name="projects.css" crc="4136873500" ref="projects"/>
-    <file name="master_d-master.css" crc="4024758964" ref="misc:adobe-creative-cloud:torrenting"/>
-    <file name="random-utilities.css" crc="443681323" ref="random-utilities"/>
-    <file name="adobe-creative-cloud.css" crc="4192902196" ref="adobe-creative-cloud"/>
-    <file name="torrenting.css" crc="3921901895" ref="torrenting"/>
-    <file name="guides-and-misc.css" crc="3943404633" ref="guides-and-misc"/>
-    <file name="boss-battles.css" crc="4254311361" ref="boss-battles"/>
-    <file name="tryndamere.css" crc="234525375" ref="tryndamere"/>
+    <file name="master_b-master.css" crc="385926243" ref="jax-guide:league-of-legends"/>
+    <file name="master_a-master.css" crc="4210691948" ref="jax-guide:desalination-project:castle-builder:random-commands:index:misc:other:minecraft:league-of-legends:projects:random-utilities:adobe-creative-cloud:torrenting:boss-battles:downloads"/>
+    <file name="master_c-master.css" crc="239529731" ref="castle-builder:random-commands:minecraft:random-utilities:boss-battles"/>
+    <file name="jax-guide.css" crc="203583900" ref="jax-guide"/>
+    <file name="desalination-project.css" crc="403375730" ref="desalination-project"/>
+    <file name="castle-builder.css" crc="276756827" ref="castle-builder"/>
+    <file name="random-commands.css" crc="4250015340" ref="random-commands"/>
+    <file name="index.css" crc="45585302" ref="index"/>
+    <file name="misc.css" crc="4059435363" ref="misc"/>
+    <file name="other.css" crc="40659327" ref="other"/>
+    <file name="minecraft.css" crc="515023273" ref="minecraft"/>
+    <file name="league-of-legends.css" crc="4135513305" ref="league-of-legends"/>
+    <file name="projects.css" crc="118936374" ref="projects"/>
+    <file name="master_d-master.css" crc="290999508" ref="misc:adobe-creative-cloud:torrenting"/>
+    <file name="random-utilities.css" crc="4131457969" ref="random-utilities"/>
+    <file name="adobe-creative-cloud.css" crc="83879734" ref="adobe-creative-cloud"/>
+    <file name="torrenting.css" crc="28049448" ref="torrenting"/>
+    <file name="boss-battles.css" crc="4291179218" ref="boss-battles"/>
+    <file name="master_e-master.css" crc="14901216" ref="other:downloads"/>
+    <file name="downloads.css" crc="4287646618" ref="downloads"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:castle-builder:desalination-project:random-commands:random-utilities:torrenting:adobe-creative-cloud:boss-battles:tryndamere:guides-and-misc"/>
-    <file name="museutils.js" crc="275725342" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:castle-builder:desalination-project:random-commands:random-utilities:torrenting:adobe-creative-cloud:boss-battles:tryndamere:guides-and-misc"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:castle-builder:desalination-project:random-commands:random-utilities:torrenting:adobe-creative-cloud:boss-battles:tryndamere:guides-and-misc"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:castle-builder:desalination-project:random-commands:random-utilities:torrenting:adobe-creative-cloud:boss-battles:tryndamere:guides-and-misc"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:castle-builder:desalination-project:random-commands:random-utilities:torrenting:adobe-creative-cloud:boss-battles:tryndamere:guides-and-misc"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:castle-builder:desalination-project:random-commands:random-utilities:torrenting:adobe-creative-cloud:boss-battles:downloads"/>
+    <file name="museutils.js" crc="275725342" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:castle-builder:desalination-project:random-commands:random-utilities:torrenting:adobe-creative-cloud:boss-battles:downloads"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:castle-builder:desalination-project:random-commands:random-utilities:torrenting:adobe-creative-cloud:boss-battles:downloads"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:castle-builder:desalination-project:random-commands:random-utilities:torrenting:adobe-creative-cloud:boss-battles:downloads"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:league-of-legends:minecraft:misc:projects:other:jax-guide:castle-builder:desalination-project:random-commands:random-utilities:torrenting:adobe-creative-cloud:boss-battles:downloads"/>
   </folder>
   <folder name="images">
-    <file name="league of legends logo.png" crc="32185178" seo="true" ref="league-of-legends:jax-guide:tryndamere:guides-and-misc"/>
+    <file name="league of legends logo.png" crc="32185178" seo="true" ref="league-of-legends:jax-guide"/>
     <file name="minecraft logo.png" crc="3789257418" seo="true" ref="minecraft:castle-builder:random-commands:random-utilities:boss-battles"/>
     <file name="jax.jpg" crc="309311098" seo="true" ref="jax-guide"/>
     <file name="adobe website.jpg" crc="4271569564" seo="true" ref="adobe-creative-cloud"/>
@@ -41,20 +41,19 @@
     <file name="adobe cc.jpg" crc="3871411592" seo="true" ref="adobe-creative-cloud"/>
     <file name="patch painter 2.jpg" crc="3999469982" seo="true" ref="adobe-creative-cloud"/>
   </folder>
-  <file name="index.html" crc="428609826" seo="true" mt="1454712618853" redirect="true"/>
-  <file name="league-of-legends.html" crc="7514040" seo="true" mt="1454712904410" redirect="true"/>
-  <file name="minecraft.html" crc="4043334363" seo="true" mt="1454712670125" redirect="true"/>
-  <file name="misc.html" crc="481435884" seo="true" mt="1454713029193" redirect="true"/>
-  <file name="projects.html" crc="4096710861" seo="true" mt="1454712618853" redirect="true"/>
-  <file name="other.html" crc="4025422869" seo="true" mt="1454712618853" redirect="true"/>
-  <file name="jax-guide.html" crc="317689125" seo="true" mt="1454712904410" redirect="true"/>
-  <file name="castle-builder.html" crc="4157229622" seo="true" mt="1454712670125" redirect="true"/>
-  <file name="desalination-project.html" crc="4186547297" seo="true" mt="1454712618853" redirect="true"/>
-  <file name="random-commands.html" crc="3834265950" seo="true" mt="1454712670125" redirect="true"/>
-  <file name="random-utilities.html" crc="322271621" seo="true" mt="1454712670125" redirect="true"/>
-  <file name="torrenting.html" crc="4076848495" seo="true" mt="1454713029193" redirect="true"/>
-  <file name="adobe-creative-cloud.html" crc="3814933601" seo="true" mt="1454713029193" redirect="true"/>
-  <file name="boss-battles.html" crc="4079498040" seo="true" mt="1454713192639" redirect="true"/>
-  <file name="tryndamere.html" crc="395983059" seo="true" mt="1454712904410" redirect="true"/>
-  <file name="guides-and-misc.html" crc="4232857844" seo="true" mt="1454712904410" redirect="true"/>
+  <file name="index.html" crc="423301656" seo="true" mt="1454729142447" redirect="true"/>
+  <file name="league-of-legends.html" crc="175643407" seo="true" mt="1454729661988" redirect="true"/>
+  <file name="minecraft.html" crc="394350941" seo="true" mt="1454729256608" redirect="true"/>
+  <file name="misc.html" crc="3888637447" seo="true" mt="1454729703449" redirect="true"/>
+  <file name="projects.html" crc="4200256512" seo="true" mt="1454729142456" redirect="true"/>
+  <file name="other.html" crc="348636541" seo="true" mt="1454730084578" redirect="true"/>
+  <file name="jax-guide.html" crc="3893127809" seo="true" mt="1454729178302" redirect="true"/>
+  <file name="castle-builder.html" crc="3973998199" seo="true" mt="1454729256608" redirect="true"/>
+  <file name="desalination-project.html" crc="3979844799" seo="true" mt="1454729142464" redirect="true"/>
+  <file name="random-commands.html" crc="80494674" seo="true" mt="1454729256608" redirect="true"/>
+  <file name="random-utilities.html" crc="401347871" seo="true" mt="1454729256608" redirect="true"/>
+  <file name="torrenting.html" crc="243292963" seo="true" mt="1454729285773" redirect="true"/>
+  <file name="adobe-creative-cloud.html" crc="3828733605" seo="true" mt="1454729303128" redirect="true"/>
+  <file name="boss-battles.html" crc="4261950288" seo="true" mt="1454729256608" redirect="true"/>
+  <file name="downloads.html" crc="59988115" seo="true" mt="1454730084578" redirect="true"/>
 </manifest>

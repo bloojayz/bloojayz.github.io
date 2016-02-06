@@ -133,13 +133,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bloojayz.github.io/tryndamere.html</loc>
-    <lastmod>2016-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bloojayz.github.io/guides-and-misc.html</loc>
+    <loc>http://bloojayz.github.io/downloads.html</loc>
     <lastmod>2016-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

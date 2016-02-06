@@ -1,3 +1,9 @@
+#u1095
+{
+	background-color: #F24400;
+	position: relative;
+}
+
 #menuu806
 {
 	border-style: none;
@@ -8,18 +14,18 @@
 
 #u815
 {
-	background-color: #0007D4;
+	background-color: #FF0000;
 	position: relative;
 }
 
 #u815:hover
 {
-	background-color: #0062DA;
+	background-color: #FF7500;
 }
 
 #u815:active
 {
-	background-color: #6B6B6B;
+	background-color: #930000;
 }
 
 #u818-4
@@ -41,23 +47,23 @@
 
 #u859
 {
-	background-color: #0007D4;
+	background-color: #FF0000;
 	position: relative;
 }
 
 #u859:hover
 {
-	background-color: #0062DA;
+	background-color: #FF7500;
 }
 
 #u859:active
 {
-	background-color: #6B6B6B;
+	background-color: #930000;
 }
 
 #u815.MuseMenuActive,#u859.MuseMenuActive
 {
-	background-color: #02006D;
+	background-color: #850078;
 }
 
 #u862-4
