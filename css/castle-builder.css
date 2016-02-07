@@ -1,7 +1,7 @@
 .version.castle_builder /* version checker */
 {
-	color: #000010;
-	background-color: #7EF95B;
+	color: #000008;
+	background-color: #E204B7;
 }
 
 .html
@@ -486,7 +486,7 @@
 {
 	z-index: 2;
 	width: 161px;
-	padding-bottom: 129px;
+	padding-bottom: 28px;
 	margin-right: -10000px;
 }
 
@@ -507,7 +507,7 @@
 #u609
 {
 	width: 118px;
-	padding-bottom: 36px;
+	padding-bottom: 98px;
 	margin-right: -10000px;
 }
 
@@ -530,7 +530,7 @@
 	width: 118px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 18px;
+	top: 49px;
 }
 
 #u609:hover #u612-4
@@ -554,7 +554,7 @@
 #u1010
 {
 	width: 118px;
-	padding-bottom: 36px;
+	padding-bottom: 98px;
 	margin-right: -10000px;
 }
 
@@ -577,7 +577,7 @@
 	width: 118px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 18px;
+	top: 49px;
 }
 
 #u609.MuseMenuActive #u612-4,#u1010:hover #u1011-4
@@ -601,7 +601,7 @@
 #u666
 {
 	width: 118px;
-	padding-bottom: 36px;
+	padding-bottom: 97px;
 	margin-right: -10000px;
 }
 
@@ -624,7 +624,7 @@
 	width: 118px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 18px;
+	top: 48px;
 }
 
 #u1010.MuseMenuActive #u1011-4,#u666:hover #u669-4
@@ -663,7 +663,7 @@
 #u651
 {
 	width: 118px;
-	padding-bottom: 36px;
+	padding-bottom: 97px;
 	margin-right: -10000px;
 }
 
@@ -693,7 +693,7 @@
 	width: 118px;
 	min-height: 34px;
 	margin-right: -10000px;
-	top: 18px;
+	top: 48px;
 }
 
 #u651:hover #u654-4
@@ -737,9 +737,9 @@
 	width: 1160px;
 	min-height: 118px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
+	text-align: center;
 	font-family: Times, Times New Roman, Georgia, serif;
 	position: relative;
 }
@@ -750,8 +750,8 @@
 	width: 1147px;
 	min-height: 345px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	margin-left: 7px;
 	margin-top: 32px;
 	position: relative;

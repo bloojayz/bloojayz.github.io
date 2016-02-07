@@ -1,7 +1,7 @@
 .version.other /* version checker */
 {
-	color: #000002;
-	background-color: #6C697F;
+	color: #0000FF;
+	background-color: #1FBFD0;
 }
 
 .html
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	margin-top: -55px;
-	padding-bottom: 476px;
+	padding-bottom: 473px;
 	width: 0.01px;
 }
 
@@ -561,8 +561,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 38px;
-	left: 35px;
+	margin-top: 41px;
+	left: 267px;
 }
 
 body

@@ -1,7 +1,7 @@
 .version.adobe_creative_cloud /* version checker */
 {
-	color: #000004;
-	background-color: #FFE736;
+	color: #00000B;
+	background-color: #C79894;
 }
 
 .html
@@ -674,8 +674,8 @@
 	width: 258px;
 	min-height: 68px;
 	background-color: transparent;
-	line-height: 23px;
 	font-size: 19px;
+	line-height: 23px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1704px;

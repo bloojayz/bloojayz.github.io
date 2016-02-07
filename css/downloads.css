@@ -1,7 +1,7 @@
 .version.downloads /* version checker */
 {
-	color: #0000FF;
-	background-color: #904B9A;
+	color: #000017;
+	background-color: #A406C7;
 }
 
 .html
@@ -461,12 +461,18 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#pu1222
+{
+	width: 0.01px;
+	margin-top: 22px;
+}
+
 #u1222
 {
 	z-index: 2;
 	width: 166px;
 	padding-bottom: 150px;
-	margin-top: 22px;
+	margin-right: -10000px;
 }
 
 #menuu1116
@@ -545,6 +551,18 @@
 	min-height: 17px;
 	width: 126px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u1231-6
+{
+	z-index: 47;
+	width: 1143px;
+	min-height: 109px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 186px;
 }
 
 body

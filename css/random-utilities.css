@@ -1,7 +1,7 @@
 .version.random_utilities /* version checker */
 {
-	color: #0000F6;
-	background-color: #410BB1;
+	color: #0000F7;
+	background-color: #73917C;
 }
 
 .html
@@ -486,7 +486,7 @@
 {
 	z-index: 2;
 	width: 161px;
-	padding-bottom: 129px;
+	padding-bottom: 28px;
 	margin-right: -10000px;
 }
 
@@ -507,7 +507,7 @@
 #u609
 {
 	width: 118px;
-	padding-bottom: 36px;
+	padding-bottom: 98px;
 	margin-right: -10000px;
 }
 
@@ -530,7 +530,7 @@
 	width: 118px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 18px;
+	top: 49px;
 }
 
 #u609:hover #u612-4
@@ -554,7 +554,7 @@
 #u1010
 {
 	width: 118px;
-	padding-bottom: 36px;
+	padding-bottom: 98px;
 	margin-right: -10000px;
 }
 
@@ -577,7 +577,7 @@
 	width: 118px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 18px;
+	top: 49px;
 }
 
 #u609.MuseMenuActive #u612-4,#u1010:hover #u1011-4
@@ -601,7 +601,7 @@
 #u666
 {
 	width: 118px;
-	padding-bottom: 36px;
+	padding-bottom: 97px;
 	margin-right: -10000px;
 }
 
@@ -624,7 +624,7 @@
 	width: 118px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 18px;
+	top: 48px;
 }
 
 #u1010.MuseMenuActive #u1011-4,#u666:hover #u669-4
@@ -663,7 +663,7 @@
 #u651
 {
 	width: 118px;
-	padding-bottom: 36px;
+	padding-bottom: 97px;
 	margin-right: -10000px;
 }
 
@@ -693,7 +693,7 @@
 	width: 118px;
 	min-height: 34px;
 	margin-right: -10000px;
-	top: 18px;
+	top: 48px;
 }
 
 #u651:hover #u654-4
@@ -747,8 +747,8 @@
 	width: 1160px;
 	min-height: 428px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	margin-top: 5px;
 	position: relative;
 }

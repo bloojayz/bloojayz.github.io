@@ -12,12 +12,6 @@
 	position: relative;
 }
 
-#u483,#u448
-{
-	background-color: transparent;
-	position: relative;
-}
-
 #u449
 {
 	background-color: #005190;
@@ -34,12 +28,45 @@
 	background-color: #004867;
 }
 
-#u449.MuseMenuActive
+#u452-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u483,#u448,#u1242
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1243
+{
+	background-color: #005190;
+	position: relative;
+}
+
+#u1243:hover
+{
+	background-color: #003448;
+}
+
+#u1243:active
+{
+	background-color: #004867;
+}
+
+#u449.MuseMenuActive,#u1243.MuseMenuActive
 {
 	background-color: #00AFE0;
 }
 
-#u452-4
+#u1245-4
 {
 	border-style: none;
 	border-color: transparent;

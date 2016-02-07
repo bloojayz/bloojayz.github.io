@@ -1,7 +1,7 @@
 .version.league_of_legends /* version checker */
 {
-	color: #0000F6;
-	background-color: #7EECD9;
+	color: #00001F;
+	background-color: #451F1F;
 }
 
 .html
@@ -25,13 +25,13 @@
 #page_position_content
 {
 	margin-top: -211px;
-	padding-bottom: 20px;
+	padding-bottom: 396px;
 	width: 0.01px;
 }
 
 #u483
 {
-	z-index: 47;
+	z-index: 53;
 	width: 363px;
 	margin-left: 502px;
 }
@@ -478,8 +478,8 @@
 #u1093
 {
 	z-index: 2;
-	width: 153px;
-	padding-bottom: 663px;
+	width: 146px;
+	padding-bottom: 20px;
 	margin-right: -10000px;
 }
 
@@ -489,7 +489,7 @@
 	width: 107px;
 	margin-right: -10000px;
 	margin-top: 20px;
-	left: 20px;
+	left: 15px;
 }
 
 #u448
@@ -500,7 +500,7 @@
 #u449
 {
 	width: 107px;
-	padding-bottom: 48px;
+	padding-bottom: 148px;
 	margin-right: -10000px;
 }
 
@@ -518,19 +518,12 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u449.MuseMenuActive
-{
-	width: 107px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u452-4
 {
 	width: 107px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 24px;
+	top: 74px;
 }
 
 #u449:hover #u452-4
@@ -551,7 +544,67 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u449.MuseMenuActive #u452-4
+#u1242
+{
+	width: 107px;
+	margin-top: 2px;
+}
+
+#u1243
+{
+	width: 107px;
+	padding-bottom: 148px;
+	margin-right: -10000px;
+}
+
+#u449.MuseMenuActive,#u1243:hover
+{
+	width: 107px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1243:active
+{
+	width: 107px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1243.MuseMenuActive
+{
+	width: 107px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1245-4
+{
+	width: 107px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 74px;
+}
+
+#u449.MuseMenuActive #u452-4,#u1243:hover #u1245-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 107px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1243:active #u1245-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 107px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1243.MuseMenuActive #u1245-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -562,12 +615,12 @@
 
 #u164-7
 {
-	z-index: 49;
+	z-index: 55;
 	width: 1160px;
 	min-height: 314px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 20px;
