@@ -39,12 +39,6 @@
 	position: relative;
 }
 
-#u814,#u856
-{
-	background-color: transparent;
-	position: relative;
-}
-
 #u859
 {
 	background-color: #FF0000;
@@ -61,12 +55,45 @@
 	background-color: #930000;
 }
 
-#u815.MuseMenuActive,#u859.MuseMenuActive
+#u862-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u814,#u856,#u1431
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1432
+{
+	background-color: #FF0000;
+	position: relative;
+}
+
+#u1432:hover
+{
+	background-color: #FF7500;
+}
+
+#u1432:active
+{
+	background-color: #930000;
+}
+
+#u815.MuseMenuActive,#u859.MuseMenuActive,#u1432.MuseMenuActive
 {
 	background-color: #E66624;
 }
 
-#u862-4
+#u1433-4
 {
 	border-style: none;
 	border-color: transparent;

@@ -1,7 +1,7 @@
-.version.misc /* version checker */
+.version.random_games /* version checker */
 {
-	color: #0000F3;
-	background-color: #BB9D13;
+	color: #000019;
+	background-color: #48DFC8;
 }
 
 .html
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 1366px;
-	min-height: 767.8333333333334px;
+	min-height: 768px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -26,7 +25,7 @@
 #page_position_content
 {
 	margin-top: -55px;
-	padding-bottom: 425px;
+	padding-bottom: 62px;
 	width: 0.01px;
 }
 
@@ -672,16 +671,16 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u166-4
+#u1447-6
 {
 	z-index: 59;
-	width: 1160px;
-	min-height: 251px;
+	width: 1167px;
+	min-height: 737px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 24px;
-	left: 186px;
+	margin-top: 20px;
+	left: 179px;
 }
 
 body

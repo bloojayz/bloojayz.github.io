@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>http://bloojayz.github.io/misc.html</loc>
-    <lastmod>2016-02-06</lastmod>
+    <lastmod>2016-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -223,14 +223,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bloojayz.github.io/torrenting.html</loc>
-    <lastmod>2016-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://bloojayz.github.io/adobe-creative-cloud.html</loc>
-    <lastmod>2016-02-06</lastmod>
+    <lastmod>2016-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -249,6 +243,18 @@
   <url>
     <loc>http://bloojayz.github.io/tryndamere-guide.html</loc>
     <lastmod>2016-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bloojayz.github.io/emulators.html</loc>
+    <lastmod>2016-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bloojayz.github.io/random-games.html</loc>
+    <lastmod>2016-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
