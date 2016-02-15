@@ -1,12 +1,12 @@
 .version.jax_guide /* version checker */
 {
-	color: #0000FF;
-	background-color: #3AD5E1;
+	color: #00000A;
+	background-color: #5CDBEC;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #000000;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 1366px;
 	min-height: 1146px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	margin-left: auto;
@@ -26,7 +26,7 @@
 {
 	margin-top: -211px;
 	padding-bottom: 62px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #u483
@@ -34,6 +34,7 @@
 	z-index: 53;
 	width: 363px;
 	margin-left: 502px;
+	position: relative;
 }
 
 #menuu81
@@ -42,12 +43,14 @@
 	width: 1367px;
 	left: -1px;
 	margin-top: 12px;
+	position: relative;
 }
 
 #u82
 {
 	width: 208px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -55,6 +58,7 @@
 {
 	width: 208px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u85:hover
@@ -82,6 +86,7 @@
 {
 	width: 40px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -118,6 +123,7 @@
 {
 	width: 287px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 210px;
 }
@@ -126,6 +132,7 @@
 {
 	width: 287px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u276:hover
@@ -153,6 +160,7 @@
 {
 	width: 119px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -189,6 +197,7 @@
 {
 	width: 233px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 499px;
 }
@@ -197,6 +206,7 @@
 {
 	width: 233px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u285:hover
@@ -224,6 +234,7 @@
 {
 	width: 65px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -260,6 +271,7 @@
 {
 	width: 200px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 734px;
 }
@@ -268,6 +280,7 @@
 {
 	width: 200px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u290:hover
@@ -295,6 +308,7 @@
 {
 	width: 32px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -331,6 +345,7 @@
 {
 	width: 223px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 936px;
 }
@@ -339,6 +354,7 @@
 {
 	width: 223px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u299:hover
@@ -366,6 +382,7 @@
 {
 	width: 55px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -402,6 +419,7 @@
 {
 	width: 206px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 1161px;
 }
@@ -410,6 +428,7 @@
 {
 	width: 206px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u304:hover
@@ -437,6 +456,7 @@
 {
 	width: 38px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -480,6 +500,7 @@
 	z-index: 2;
 	width: 146px;
 	padding-bottom: 20px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -487,6 +508,7 @@
 {
 	z-index: 40;
 	width: 107px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 20px;
 	left: 15px;
@@ -495,12 +517,14 @@
 #u448
 {
 	width: 107px;
+	position: relative;
 }
 
 #u449
 {
 	width: 107px;
 	padding-bottom: 148px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -522,6 +546,7 @@
 {
 	width: 107px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 74px;
 }
@@ -548,12 +573,14 @@
 {
 	width: 107px;
 	margin-top: 2px;
+	position: relative;
 }
 
 #u1243
 {
 	width: 107px;
 	padding-bottom: 148px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -582,6 +609,7 @@
 {
 	width: 107px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 74px;
 }
@@ -847,16 +875,16 @@
 	position: relative;
 }
 
+.html
+{
+	background-color: #000000;
+}
+
 body
 {
 	position: relative;
 	min-width: 1366px;
 	padding-top: 232px;
 	padding-bottom: 36px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

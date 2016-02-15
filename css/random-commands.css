@@ -1,12 +1,12 @@
 .version.random_commands /* version checker */
 {
-	color: #000008;
-	background-color: #0576A0;
+	color: #0000F5;
+	background-color: #1ACAC8;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #007300;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 1366px;
 	min-height: 768px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	margin-left: auto;
@@ -26,7 +26,7 @@
 {
 	margin-top: -266px;
 	padding-bottom: 62px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #pmenuu81
@@ -39,6 +39,7 @@
 {
 	z-index: 3;
 	width: 1367px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 211px;
 }
@@ -47,6 +48,7 @@
 {
 	width: 208px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -54,6 +56,7 @@
 {
 	width: 208px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u85:hover
@@ -81,6 +84,7 @@
 {
 	width: 40px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -117,6 +121,7 @@
 {
 	width: 287px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 210px;
 }
@@ -125,6 +130,7 @@
 {
 	width: 287px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u276:hover
@@ -152,6 +158,7 @@
 {
 	width: 119px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -188,6 +195,7 @@
 {
 	width: 233px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 499px;
 }
@@ -196,6 +204,7 @@
 {
 	width: 233px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u285:hover
@@ -223,6 +232,7 @@
 {
 	width: 65px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -259,6 +269,7 @@
 {
 	width: 200px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 734px;
 }
@@ -267,6 +278,7 @@
 {
 	width: 200px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u290:hover
@@ -294,6 +306,7 @@
 {
 	width: 32px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -330,6 +343,7 @@
 {
 	width: 223px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 936px;
 }
@@ -338,6 +352,7 @@
 {
 	width: 223px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u299:hover
@@ -365,6 +380,7 @@
 {
 	width: 55px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -401,6 +417,7 @@
 {
 	width: 206px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 1161px;
 }
@@ -409,6 +426,7 @@
 {
 	width: 206px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u304:hover
@@ -436,6 +454,7 @@
 {
 	width: 38px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -472,6 +491,7 @@
 {
 	z-index: 40;
 	width: 680px;
+	position: relative;
 	margin-right: -10000px;
 	left: 261px;
 }
@@ -487,6 +507,7 @@
 	z-index: 2;
 	width: 161px;
 	padding-bottom: 28px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -494,6 +515,7 @@
 {
 	z-index: 42;
 	width: 118px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 20px;
 	left: 20px;
@@ -502,12 +524,14 @@
 #u608
 {
 	width: 118px;
+	position: relative;
 }
 
 #u609
 {
 	width: 118px;
 	padding-bottom: 98px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -529,6 +553,7 @@
 {
 	width: 118px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 49px;
 }
@@ -555,6 +580,7 @@
 {
 	width: 118px;
 	padding-bottom: 98px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -576,6 +602,7 @@
 {
 	width: 118px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 49px;
 }
@@ -602,6 +629,7 @@
 {
 	width: 118px;
 	padding-bottom: 97px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -623,6 +651,7 @@
 {
 	width: 118px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 48px;
 }
@@ -658,12 +687,14 @@
 {
 	width: 118px;
 	margin-top: 2px;
+	position: relative;
 }
 
 #u651
 {
 	width: 118px;
 	padding-bottom: 97px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -692,6 +723,7 @@
 {
 	width: 118px;
 	min-height: 34px;
+	position: relative;
 	margin-right: -10000px;
 	top: 48px;
 }
@@ -767,16 +799,16 @@
 	font-weight: bold;
 }
 
+.html
+{
+	background-color: #007300;
+}
+
 body
 {
 	position: relative;
 	min-width: 1366px;
 	padding-top: 252px;
 	padding-bottom: 36px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

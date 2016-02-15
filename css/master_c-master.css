@@ -1,21 +1,18 @@
 #u1094
 {
 	background-color: #489E38;
-	position: relative;
 }
 
 #menuu600
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
 }
 
 #u609
 {
 	background-color: #3C9500;
-	position: relative;
 }
 
 #u609:hover
@@ -30,19 +27,17 @@
 
 #u612-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 #u1010
 {
 	background-color: #3C9500;
-	position: relative;
 }
 
 #u1010:hover
@@ -57,19 +52,17 @@
 
 #u1011-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 #u666
 {
 	background-color: #3C9500;
-	position: relative;
 }
 
 #u666:hover
@@ -84,25 +77,22 @@
 
 #u669-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 #u594,#u608,#u1007,#u665,#u650
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u651
 {
 	background-color: #3C9500;
-	position: relative;
 }
 
 #u651:hover
@@ -122,13 +112,12 @@
 
 #u654-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 .MenuItem /* unifiedNavBar */

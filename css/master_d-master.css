@@ -1,21 +1,18 @@
 #u1095
 {
 	background-color: #F24400;
-	position: relative;
 }
 
 #menuu806
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
 }
 
 #u815
 {
 	background-color: #FF0000;
-	position: relative;
 }
 
 #u815:hover
@@ -30,19 +27,17 @@
 
 #u818-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 #u859
 {
 	background-color: #FF0000;
-	position: relative;
 }
 
 #u859:hover
@@ -57,25 +52,22 @@
 
 #u862-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 #u814,#u856,#u1431
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u1432
 {
 	background-color: #FF0000;
-	position: relative;
 }
 
 #u1432:hover
@@ -95,13 +87,12 @@
 
 #u1433-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 .MenuItem /* unifiedNavBar */

@@ -1,15 +1,13 @@
 #menuu81
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
 }
 
 #u85
 {
 	background-color: #008FC2;
-	position: relative;
 }
 
 #u85:hover
@@ -24,19 +22,17 @@
 
 #u88-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 #u276
 {
 	background-color: #008FC2;
-	position: relative;
 }
 
 #u276:hover
@@ -51,19 +47,17 @@
 
 #u278-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 #u285
 {
 	background-color: #008FC2;
-	position: relative;
 }
 
 #u285:hover
@@ -78,19 +72,17 @@
 
 #u286-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 #u290
 {
 	background-color: #008FC2;
-	position: relative;
 }
 
 #u290:hover
@@ -105,19 +97,17 @@
 
 #u292-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 #u299
 {
 	background-color: #008FC2;
-	position: relative;
 }
 
 #u299:hover
@@ -132,25 +122,22 @@
 
 #u300-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 #u82,#u275,#u282,#u289,#u296,#u303
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u304
 {
 	background-color: #008FC2;
-	position: relative;
 }
 
 #u304:hover
@@ -170,13 +157,12 @@
 
 #u306-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 .MenuItem /* unifiedNavBar */

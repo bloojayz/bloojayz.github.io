@@ -1,12 +1,12 @@
 .version.adobe_creative_cloud /* version checker */
 {
-	color: #000000;
-	background-color: #11F78C;
+	color: #0000F4;
+	background-color: #5BC867;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #C4263B;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 1366px;
 	min-height: 768px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	margin-left: auto;
@@ -26,7 +26,7 @@
 {
 	margin-top: -55px;
 	padding-bottom: 62px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #menuu81
@@ -34,12 +34,14 @@
 	z-index: 3;
 	width: 1367px;
 	left: -1px;
+	position: relative;
 }
 
 #u82
 {
 	width: 208px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -47,6 +49,7 @@
 {
 	width: 208px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u85:hover
@@ -74,6 +77,7 @@
 {
 	width: 40px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -110,6 +114,7 @@
 {
 	width: 287px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 210px;
 }
@@ -118,6 +123,7 @@
 {
 	width: 287px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u276:hover
@@ -145,6 +151,7 @@
 {
 	width: 119px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -181,6 +188,7 @@
 {
 	width: 233px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 499px;
 }
@@ -189,6 +197,7 @@
 {
 	width: 233px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u285:hover
@@ -216,6 +225,7 @@
 {
 	width: 65px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -252,6 +262,7 @@
 {
 	width: 200px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 734px;
 }
@@ -260,6 +271,7 @@
 {
 	width: 200px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u290:hover
@@ -287,6 +299,7 @@
 {
 	width: 32px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -323,6 +336,7 @@
 {
 	width: 223px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 936px;
 }
@@ -331,6 +345,7 @@
 {
 	width: 223px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u299:hover
@@ -358,6 +373,7 @@
 {
 	width: 55px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -394,6 +410,7 @@
 {
 	width: 206px;
 	min-height: 33px;
+	position: relative;
 	margin-right: -10000px;
 	left: 1161px;
 }
@@ -402,6 +419,7 @@
 {
 	width: 206px;
 	padding-bottom: 16px;
+	position: relative;
 }
 
 #u304:hover
@@ -429,6 +447,7 @@
 {
 	width: 38px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 84px;
@@ -472,6 +491,7 @@
 	z-index: 2;
 	width: 169px;
 	padding-bottom: 88px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -479,6 +499,7 @@
 {
 	z-index: 40;
 	width: 122px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 24px;
 	left: 20px;
@@ -487,6 +508,7 @@
 #u814
 {
 	width: 122px;
+	position: relative;
 }
 
 #u815
@@ -494,6 +516,7 @@
 	width: 122px;
 	min-height: 17px;
 	padding-bottom: 58px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -522,6 +545,7 @@
 {
 	width: 122px;
 	min-height: 17px;
+	position: relative;
 	margin-right: -10000px;
 	top: 29px;
 }
@@ -558,6 +582,7 @@
 	width: 122px;
 	min-height: 34px;
 	padding-bottom: 42px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -579,6 +604,7 @@
 {
 	width: 122px;
 	min-height: 34px;
+	position: relative;
 	margin-right: -10000px;
 	top: 21px;
 }
@@ -605,6 +631,7 @@
 {
 	width: 122px;
 	margin-top: 2px;
+	position: relative;
 }
 
 #u1432
@@ -612,6 +639,7 @@
 	width: 122px;
 	min-height: 34px;
 	padding-bottom: 42px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -640,6 +668,7 @@
 {
 	width: 122px;
 	min-height: 34px;
+	position: relative;
 	margin-right: -10000px;
 	top: 21px;
 }
@@ -671,7 +700,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u684-178
+#u684-523
 {
 	z-index: 59;
 	width: 1160px;
@@ -683,9 +712,15 @@
 	left: 196px;
 }
 
+#u684-213,#u684-215,#u684-217,#u684-219,#u684-221,#u684-223,#u684-225,#u684-227,#u684-229,#u684-231,#u684-233,#u684-235,#u684-237,#u684-239,#u684-241,#u684-243,#u684-245,#u684-247,#u684-249,#u684-251,#u684-253,#u684-255,#u684-257,#u684-259,#u684-261,#u684-263,#u684-265,#u684-267,#u684-269,#u684-271,#u684-273,#u684-275,#u684-277,#u684-279,#u684-281,#u684-283,#u684-285,#u684-287,#u684-289,#u684-291,#u684-293,#u684-295,#u684-297,#u684-299,#u684-301,#u684-303,#u684-305,#u684-307,#u684-309,#u684-311,#u684-313,#u684-315,#u684-317,#u684-319,#u684-321,#u684-323,#u684-325,#u684-327,#u684-329,#u684-331,#u684-333,#u684-335,#u684-337,#u684-339,#u684-341,#u684-343,#u684-345,#u684-347,#u684-349,#u684-351,#u684-353,#u684-355,#u684-357,#u684-359,#u684-361,#u684-363,#u684-365,#u684-367,#u684-369,#u684-371,#u684-373,#u684-375,#u684-377,#u684-379,#u684-381,#u684-383,#u684-385,#u684-387,#u684-389,#u684-391,#u684-393,#u684-395,#u684-397,#u684-399,#u684-401,#u684-403,#u684-405,#u684-407,#u684-409,#u684-411,#u684-413,#u684-415,#u684-417,#u684-419,#u684-421,#u684-423,#u684-425,#u684-427,#u684-429,#u684-431,#u684-433,#u684-435,#u684-437,#u684-439,#u684-441,#u684-443,#u684-445,#u684-447,#u684-449,#u684-451,#u684-453,#u684-455,#u684-457,#u684-459,#u684-461,#u684-463,#u684-465,#u684-467,#u684-469,#u684-471,#u684-473,#u684-475,#u684-477,#u684-479,#u684-481,#u684-483,#u684-484
+{
+	font-size: 12px;
+	line-height: 14px;
+}
+
 #u688
 {
-	z-index: 237;
+	z-index: 582;
 	width: 1067px;
 	background-color: transparent;
 	position: relative;
@@ -696,7 +731,7 @@
 
 #u694
 {
-	z-index: 239;
+	z-index: 584;
 	width: 413px;
 	background-color: transparent;
 	position: relative;
@@ -707,7 +742,7 @@
 
 #u700
 {
-	z-index: 241;
+	z-index: 586;
 	width: 439px;
 	background-color: transparent;
 	position: relative;
@@ -718,7 +753,7 @@
 
 #u706-4
 {
-	z-index: 243;
+	z-index: 588;
 	width: 258px;
 	min-height: 68px;
 	background-color: transparent;
@@ -732,7 +767,7 @@
 
 #u707
 {
-	z-index: 247;
+	z-index: 592;
 	width: 416px;
 	background-color: transparent;
 	position: relative;
@@ -741,16 +776,16 @@
 	left: 365px;
 }
 
+.html
+{
+	background-color: #C4263B;
+}
+
 body
 {
 	position: relative;
 	min-width: 1366px;
 	padding-top: 225px;
 	padding-bottom: 36px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

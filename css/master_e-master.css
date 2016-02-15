@@ -1,27 +1,23 @@
 #u1222
 {
 	background-color: #6CBE73;
-	position: relative;
 }
 
 #menuu1116
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
 }
 
 #u1117
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u1120
 {
 	background-color: #22B573;
-	position: relative;
 }
 
 #u1120:hover
@@ -41,13 +37,12 @@
 
 #u1122-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
 }
 
 .MenuItem /* unifiedNavBar */
